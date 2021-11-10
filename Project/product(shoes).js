@@ -1,6 +1,6 @@
 export let product = [{
     ID : "NR01",
-    Image : "./Nike/Img/NO.1.jpg" ,
+    Image : "./pic/1.jpg" ,
     Name : "Nike Renew Serenity Run",
     Price : 2900,
     Stock : 300 
@@ -8,7 +8,7 @@ export let product = [{
 },
 {
     ID : "NF01",
-    Image : "./Nike/Img/NO.2.jpg" ,
+    Image : "./pic/2.jpg" ,
     Name : "Nike Air Force 1 '07",
     Price : 3500,
     Stock : 250  
@@ -16,7 +16,7 @@ export let product = [{
 },
 {
     ID : "NF02",
-    Image : "./Nike/Img/NO.3.jpg" ,
+    Image : "./pic/3.jpg" ,
     Name : "Nike Air Force 1 '07 Essential",
     Price : 3500,
     Stock : 270  
@@ -24,7 +24,7 @@ export let product = [{
 },
 {
     ID : "NF03",
-    Image : "./Nike/Img/NO.4.jpg" ,
+    Image : "./pic/4.jpg" ,
     Name : "Nike Air Force 1 Pixel SE",
     Price : 4200,
     Stock : 350
@@ -32,7 +32,7 @@ export let product = [{
 },
 {
     ID : "NF04",
-    Image : "./Nike/Img/NO.5.jpg" ,
+    Image : "./pic/5.jpg" ,
     Name : "Nike Air Force 1 '07 LV8",
     Price : 3800,
     Stock : 150 
@@ -40,7 +40,7 @@ export let product = [{
 },
 {
     ID : "NFS01",
-    Image : "./Nike/Img/NO.6.jpg" ,
+    Image : "./pic/6.jpg" ,
     Name : "Nike Air Force 1 Shadow",
     Price : 4600,
     Stock : 180 
@@ -48,7 +48,7 @@ export let product = [{
 },
 {
     ID : "NFS02",
-    Image : "./Nike/Img/NO.7.jpg" ,
+    Image : "./pic/7.jpg" ,
     Name : "Nike Air Force 1 Shadow",
     Price : 4200,
     Stock : 200 
@@ -56,7 +56,7 @@ export let product = [{
 },
 {
     ID : "NFS03",
-    Image : "./Nike/Img/NO.8.jpg" ,
+    Image : "./pic/8.jpg" ,
     Name : "Nike Air Force 1 Shadow",
     Price : 4600,
     Stock : 180 
@@ -64,7 +64,7 @@ export let product = [{
 },
 {
     ID : "NFF01",
-    Image : "./Nike/Img/NO.9.jpg" ,
+    Image : "./pic/9.jpg" ,
     Name : "Nike Air Force 1 Fontanka",
     Price : 4200,
     Stock : 220 
