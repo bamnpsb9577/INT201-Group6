@@ -1,0 +1,41 @@
+header{
+    width: 100%;
+    position: fixed;
+}
+
+#products{
+    padding-top: 60px;
+}
+
+.list-unstyled{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.fs-3{
+    padding-left: 15px;
+  }
+  
+.data{
+    padding-left: 15px;
+  }
+
+.btn-dark{
+    margin-left: 33%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.list-unstyled:hover {
+    transition: 0.2s ease-in;
+    transform: translateY(-10px);
+    box-shadow: 0px 45px 60px 0px rgba(0, 0, 0, 0.087);
+  }
+
+header{
+    z-index: 999999;
+}
+
+
+
+

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/index.css"/>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="./productList.js" type="module"></script>
+    <title>Nike Shop</title>
+</head>
+
+<body>
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid" >
+          <a class="navbar-brand" href="#" style="padding-left: 50px;">
+            <img src="./pic/nike-icon.png" alt="nike-icon" width="80" height="30">
+          </a>
+
+            <form class="d-flex" style="padding-right: 50px;">
+              <span id="searchbar" style="display: inline-block; width: 40; margin-right: 20px;"></span>
+              <a href="#"><img src="./pic/search.png" id="search" width="20" style="margin-top: 10px; margin-right: 1em;"></a>
+              <img src="./pic/shopping-cart.png"  alt="cart" width="25" style="margin: auto 5px;">
+            <span id="cart-count" style="margin: 5px ; font-weight: 800; color: #000; font-size: 20px;">0</span>
+            <img src="./pic/bin.png" id="cancel" alt="bin" width="25" style="margin: auto 1em; cursor: pointer;"></i>
+        
+          </form>
+        </div>
+      </nav>
+    </header>
+
+      <div id="products" class="container-md">
+        <div id="shoes-list" class="row">
+        </div>
+        </div>
+      </div>
+</body>
+</html>
